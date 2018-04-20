@@ -1,0 +1,6 @@
+<resources>
+    <!--沉浸式状态栏值-->
+    <dimen name="immersive_value">23dp</dimen>
+    <dimen name="title_high_value">50dp</dimen>
+    <dimen name="home_activity_banner">144dp</dimen>
+</resources>
